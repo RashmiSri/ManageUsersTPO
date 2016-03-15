@@ -7,8 +7,10 @@
 <title>Delete</title>
 </head>
 <body>
+<form action="deletecandidate.html" method="post">
 Name:<input name="name" type="text" /><br>
 Company:<input name="company" type="text" /><br>
-<input type="submit" value="delete"/>
+<input type="submit" value="Delete"/>
+</form>
 </body>
 </html>
