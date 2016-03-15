@@ -7,8 +7,10 @@
 <title>Insert title here</title>
 </head>
 <body>
+<form action="addcandidate.html" method="post">
 Name:<input name="name" type="text" /><br>
 Company:<input name="company" type="text" /><br>
-<input type="submit" value="submit"/>
+<input type="submit" value="Add"/>
+</form>
 </body>
 </html>
